@@ -160,3 +160,4 @@ class DatabaseService{
 
 const dataBaseService = new DatabaseService();
 export default dataBaseService;
+2
